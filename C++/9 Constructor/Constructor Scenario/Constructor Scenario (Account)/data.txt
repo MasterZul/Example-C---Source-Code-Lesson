@@ -1,0 +1,10 @@
+1000 2 A14CS Muhammad Zulkifli 
+2000 2 A15CS Muhammad Aslam
+3000 2 A14CS Muhammad Alif
+4000 2 A15CS Kimi Iqmal
+5000 2 A14CS Shukri Manaf
+6000 1 A15CS Qurratul AAim
+7000 1 A14CS Amnah Rasiqah 
+8000 1 A15CS Amy Natasha
+9000 2 A14CS Afif Wahdi
+20000 1 A15CS Master Zul

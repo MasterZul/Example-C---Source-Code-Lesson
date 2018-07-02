@@ -1,0 +1,9 @@
+=======================================================================================
+                                Triangular Board Simulator
+======================================================================================
+1. bukak input file dan masukkan data. cth 1 2 3 atau 11 13 29 31 atau 4 5 9 13 12 7
+   dan kemudian save file ni.
+
+2  execute program c++ Triangular Board Simulator.
+
+3. bukak Output.txt untuk tgk output program ni.

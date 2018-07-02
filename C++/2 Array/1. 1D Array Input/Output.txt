@@ -1,0 +1,11 @@
+  ID       Score  Grade
+A15CS0273  96     A+
+A15CS0167  88     A
+A15CS0274  93     A+
+A15CS0168  63     B-
+A15CS0169  73     B+
+A15CS0276  85     A
+A15CS0170  60     B-
+
+Average  OverallPercentage  GradeCW GradeF
+79.71    79.71               A       A-

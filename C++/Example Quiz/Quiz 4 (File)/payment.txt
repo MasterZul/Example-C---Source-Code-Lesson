@@ -1,0 +1,3 @@
+Total Working Hours       : 3
+Payment Rate (per Hour)   : RM  4.80
+Total Salary              : RM 14.40
